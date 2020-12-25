@@ -7,7 +7,7 @@ struct student{
     int score;
     struct student* next;
 };
-
+// SELAMUN ALEYKUM
 typedef struct student Student;
 
 void display(Student* headOfList){ 
